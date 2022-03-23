@@ -1,12 +1,12 @@
 {
 "Topon_appid":"a5aa1f9deda26d",
 "Topon_key":"4f7b9ac17decb9babec83aac078742c7",
-"Topon_banner":"b5baca41a2536f",
-"Topon_inter1":"b5baca54674522",
-"Topon_inter2":"b5baca54674522",
-"Topon_native":"b5aa1fa501d9f6",
-"Fac_inter1":"",
-"Fac_Banner":"",
-"Fac_Native":""
+"Topon_banner":"",
+"Topon_inter1":"",
+"Topon_inter2":"",
+"Topon_native":"",
+"Fac_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"Fac_Banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"Fac_Native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 
 }
