@@ -5,8 +5,11 @@
 "Topon_inter1":"",
 "Topon_inter2":"",
 "Topon_native":"",
-"Fac_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"Fac_Banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"Fac_Native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
-
+"Fac_inter1":"",
+"Fac_Banner":"",
+"Fac_Native":"",
+"Admob_appid":"ca-app-pub-3940256099942544~3347511713",
+"Admob_Inter1":"ca-app-pub-3940256099942544/1033173712",
+"Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
+"Admob_Native":"ca-app-pub-3940256099942544/2247696110"
 }
